@@ -1,0 +1,13 @@
+{
+  "name": "file_static_server",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Used as a simple static file server for development",
+  "main": "src/index.js",
+  "scripts": {},
+  "author": "Charles Palen (Transcending Digital LLC)",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
